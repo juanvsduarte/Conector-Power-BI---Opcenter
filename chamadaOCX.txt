@@ -1,0 +1,2 @@
+"/OCXWindow:Power Bi:Conector_Power_BI_Opcenter.JanelaRelatorio:JanelaRelatorio:https://app.powerbi.com/reportEmbed?reportId=227fbed9-acb0-477a-88dd-2a391150f280&autoAuth=true&ctid=1df8c138-7f36-43b5-8cdb-7a83a87c1d0d&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D"
+"/OCXWindow:Teste:Conector_Power_BI_Opcenter.CustomWindow1:teste"
